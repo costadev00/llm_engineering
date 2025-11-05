@@ -1,36 +1,33 @@
-# HR Record
+# Registro de RH
 
 # Alex Thomson
 
-## Summary
-- **Date of Birth:** March 15, 1995  
-- **Job Title:** Sales Development Representative (SDR)  
-- **Location:** Austin, Texas  
+## Resumo
 
-## Insurellm Career Progression
-- **November 2022** - Joined Insurellm as a Sales Development Representative. Alex Thomson quickly adapted to the team, demonstrating exceptional communication and rapport-building skills.
-- **January 2023** - Promoted to Team Lead for special projects due to Alex's initiative in driving B2B customer outreach programs.  
-- **August 2023** - Developed a training module for new SDRs at Insurellm, enhancing onboarding processes based on feedback and strategies that Alex Thomson pioneered.  
-- **Current** - Continues to excel in the role, leading a small team of 5 SDRs while collaborating closely with the marketing department to identify new lead-generation strategies.  
+- **Data de nascimento:** 15 de março de 1995
+- **Cargo:** Supervisora de Trade Marketing
+- **Localização:** Belo Horizonte, Minas Gerais
 
-## Annual Performance History  
-- **2022** - Rated as "Exceeds Expectations." Alex Thomson achieved 150% of the sales target within the first three months.  
-- **2023** - Rated "Outstanding." Recognized for innovative lead-generation tactics which contributed to a 30% increase in qualified leads for the sales team.  
+## Trajetória na Bebidas Brasil Distribuidora
 
-### Highlights:
-- Consistently maintained a 30-minute response time to inbound leads.
-- Successfully coordinated webinars for product launches, which attracted over 2,000 potential customers.
+- **Novembro de 2022:** Ingressou como Executiva de Trade Júnior para projetos promocionais em supermercados regionais.
+- **Janeiro de 2023:** Promovida a Supervisora Adjunta após estruturar calendário de ativações em redes cash & carry.
+- **Agosto de 2023:** Passou a liderar squad de cinco analistas responsáveis por materiais de PDV e campanhas cooperadas com grandes varejistas.
 
-## Compensation History
-- **2022**: Base Salary - $55,000 | Bonus - $5,000  
-- **2023**: Base Salary - $65,000 | Bonus - $10,000 (for exceeding sales targets and exceptional teamwork)  
-- **Projected for 2024**: Anticipated salary increase due to Alex Thomson's significant contributions and successful completion of leadership training.
+## Histórico de Desempenho Anual
 
-## Other HR Notes
-- Alex Thomson is an active member of the Diversity and Inclusion committee at Insurellm and has participated in various community outreach programs.  
-- Alex has received external training on advanced CRM usage, which has subsequently improved team efficiency and productivity.
-- Continuous professional development through attending sales conventions and workshops, with plans to pursue certification in Sales Enablement in 2024.
-- Recognized by peers for promoting a supportive and high-energy team environment, often organizing team-building activities to enhance camaraderie within the SDR department. 
+- **2022:** Obteve avaliação "Acima do Esperado" ao superar em 150% a meta de instalação de displays refrigerados nos três primeiros meses.
+- **2023:** Classificação "Excelente" pela criação do programa "Experiência do Growler", que elevou vendas de chopes em autosserviço em 32%.
 
---- 
-**Comment:** Alex Thomson is considered a cornerstone of Insurellm’s sales team and has a bright future within the organization.
+## Histórico de Remuneração
+
+- **2022:** Salário base R$ 4.900,00 + variável trimestral de R$ 1.200,00
+- **2023:** Salário base R$ 6.400,00 + bônus anual de R$ 8.000,00
+- **Projeção 2024:** Ajuste de salário para R$ 7.500,00 vinculado a metas de expansão do canal varejo especializado
+
+## Outras Observações de RH
+
+- Lidera grupo interno de boas práticas de execução em PDV, compartilhando cases em encontros bimestrais.
+- Frequentou curso de Neuromarketing aplicado ao varejo de bebidas em 2023.
+- Voluntária em ações de combate ao desperdício, articulando doações de bebidas próximas ao vencimento para instituições sociais.
+- Planeja certificação em gestão de categorias até o final de 2024.

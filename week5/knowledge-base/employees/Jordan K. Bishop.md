@@ -1,37 +1,38 @@
-# HR Record
+# Registro de RH
 
 # Jordan K. Bishop
 
-## Summary
-- **Date of Birth:** March 15, 1990
-- **Job Title:** Frontend Software Engineer
-- **Location:** Austin, Texas
+## Resumo
 
-## Insurellm Career Progression
-- **June 2018:** Hired as a Frontend Software Engineer.
-- **August 2019:** Promoted to Senior Frontend Software Engineer due to outstanding contributions to the Insurellm web application redesign project.
-- **March 2021:** Led a cross-functional team for the launch of Insurellm's customer portal, enhancing user experience and engagement.
-- **January 2022:** Transitioned to a mentorship role, where Jordan K. Bishop began training junior engineers, which affected the focus on personal projects.
-- **August 2023:** Returned to core development tasks but faced challenges adapting to new frameworks, leading to performance reviews reflecting a need for improvement.
+- **Data de nascimento:** 15 de março de 1990
+- **Cargo:** Coordenador de Sistemas Comerciais
+- **Localização:** Curitiba, Paraná
 
-## Annual Performance History
-- **2019:** Exceeds Expectations - Continuously delivered high-quality code and participated actively in team meetings.
-- **2020:** Meets Expectations - Jordan K. Bishop maintained steady performance but faced challenges due to a higher workload from multiple projects.
-- **2021:** Exceeds Expectations - Recognized for leadership during the customer portal project; received the “Innovation Award” for creative problem-solving.
-- **2022:** Meets Expectations - While mentoring others, the shift in focus led to fewer contributions to new features, marking a decrease in performance.
-- **2023:** Needs Improvement - Transitioning back to development has resulted in difficulties with recent technologies, prompting a performance improvement plan.
+## Trajetória na Bebidas Brasil Distribuidora
 
-## Compensation History
-- **June 2018:** Starting Salary - $85,000
-- **June 2019:** Salary Increase - $95,000 (Promotion to Senior Engineer)
-- **June 2021:** Salary Increase - $105,000 with bonus for project leadership.
-- **June 2022:** Salary Freeze due to company budget adjustments.
-- **June 2023:** Salary Adjustment - $92,000 after performance review; adjustments made in consideration of recent struggles with adaptation.
+- **Junho de 2018:** Admitido como Analista de Sistemas Comerciais para implementação do portal de pedidos B2B.
+- **Agosto de 2019:** Promoção a Especialista responsável pelo redesign responsivo da plataforma de representantes.
+- **Março de 2021:** Liderou squad multidisciplinar que lançou o aplicativo "Pedido Fácil" usado por bares e restaurantes parceiros.
+- **Janeiro de 2022:** Passou a dedicar 40% do tempo à mentoria de desenvolvedores juniores e trilhas de capacitação interna.
+- **Agosto de 2023:** Retornou à coordenação de backlog após atualização tecnológica para stack low-code; recebeu plano de desenvolvimento para reforço em analytics.
 
-## Other HR Notes
-- Jordan K. Bishop has been an integral part of club initiatives, including the Insurellm Code Reviews and Feedback Group, providing peer support.
-- Active participant in the company's Diversity and Inclusion committee, promoting a positive work culture.
-- Jordan has expressed interest in professional development courses, particularly those focused on modern web technologies, which are being considered for sponsorship by Insurellm.
-- Engaged in a 6-month performance improvement plan as of August 2023, focusing on skill development and consistent performance monitoring. 
+## Histórico de Desempenho Anual
 
-Jordan K. Bishop is a valued member of the Insurellm family, exhibiting a commitment to growth and development despite recent challenges.
+- **2019:** "Supera Expectativas" ao entregar o portal B2B com melhoria de 45% na taxa de conversão de pedidos.
+- **2020:** "Atende Expectativas" mesmo com aumento de demandas; reconhecido por manter estabilidade do sistema durante picos sazonais.
+- **2021:** "Supera Expectativas" com o lançamento do app mobile e integração com parceiros de pagamento.
+- **2022:** "Atende Expectativas" enquanto atuava como mentor, com menor volume de entregas individuais.
+- **2023:** "Em Desenvolvimento" após necessidade de reciclagem em novas ferramentas; evolução acompanhada por coaching técnico.
+
+## Histórico de Remuneração
+
+- **2019:** Salário base R$ 7.200,00
+- **2021:** Salário base R$ 9.000,00 + bônus de R$ 15.000,00 pelo lançamento do app
+- **2023:** Salário base ajustado para R$ 8.400,00 com metas vinculadas ao plano de desenvolvimento
+
+## Outras Observações de RH
+
+- Participa do capítulo de tecnologia do programa de diversidade racial, atuando como mentor de trainees negros.
+- Concluiu cursos de Power BI aplicado a vendas e experiência do usuário em 2023.
+- Atualmente em plano de desenvolvimento de seis meses com foco em analytics e automação de fluxos comerciais.
+- Contribui voluntariamente para hackathons internos e comunidades de tecnologia da região Sul.

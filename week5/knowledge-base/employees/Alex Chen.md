@@ -1,46 +1,36 @@
-# HR Record
+# Registro de RH
 
 # Alex Chen
 
-## Summary
-- **Date of Birth:** March 15, 1990  
-- **Job Title:** Backend Software Engineer  
-- **Location:** San Francisco, California  
+## Resumo
 
-## Insurellm Career Progression
-- **April 2020:** Joined Insurellm as a Junior Backend Developer. Focused on building APIs to enhance customer data security.
-- **October 2021:** Promoted to Backend Software Engineer. Took on leadership for a key project developing a microservices architecture to support the company's growing platform.
-- **March 2023:** Awarded the title of Senior Backend Software Engineer due to exemplary performance in scaling backend services, reducing downtime by 30% over six months.
+- **Data de nascimento:** 15 de março de 1990
+- **Cargo:** Gerente de Sistemas Logísticos
+- **Localização:** Campinas, São Paulo
 
-## Annual Performance History
-- **2020:**  
-  - Completed onboarding successfully.  
-  - Met expectations in delivering project milestones.  
-  - Received positive feedback from the team leads.
+## Trajetória na Bebidas Brasil Distribuidora
 
-- **2021:**  
-  - Achieved a 95% success rate in project delivery timelines.  
-  - Awarded "Rising Star" at the annual company gala for outstanding contributions.  
+- **Abril de 2020:** Ingressou como Analista de TI focado na implantação do WMS (Warehouse Management System) no centro de distribuição de Campinas.
+- **Setembro de 2021:** Promovido a Especialista em Integração de Dados, liderando a conexão entre pedidos de e-commerce e o ERP corporativo.
+- **Março de 2023:** Assumiu a gerência de Sistemas Logísticos, coordenando squad multidisciplinar responsável por roteirização e telemetria de frota.
 
-- **2022:**  
-  - Exceeded goals by optimizing existing backend code, improving system performance by 25%.  
-  - Conducted training sessions for junior developers, fostering knowledge sharing.  
+## Histórico de Desempenho Anual
 
-- **2023:**  
-  - Led a major overhaul of the API internal architecture, enhancing security protocols.  
-  - Contributed to the company’s transition to a cloud-based infrastructure.  
-  - Received an overall performance rating of 4.8/5.
+- **2020:** Concluiu migração de dados legados sem interrupção operacional e treinou equipes regionais no novo WMS.
+- **2021:** Entregou integrações em tempo recorde, reduzindo falhas de sincronização de pedidos em 40% e recebeu o reconhecimento "Destaque Digital".
+- **2022:** Implementou painel de monitoramento em tempo real para indicador OTIF, elevando a taxa de entregas dentro do prazo para 93%.
+- **2023:** Liderou projeto de telemetria que diminuiu o consumo médio de combustível da frota em 8% e mentoriou analistas juniores.
 
-## Compensation History
-- **2020:** Base Salary: $80,000  
-- **2021:** Base Salary Increase to $90,000; Received a performance bonus of $5,000.  
-- **2022:** Base Salary Increase to $100,000; Performance bonus of $7,500 due to exceptional project outcomes.  
-- **2023:** Base Salary Increase to $115,000; Performance bonus of $10,000 for leading pivotal projects.
+## Histórico de Remuneração
 
-## Other HR Notes
-- Participates regularly in Insurellm's Diversity & Inclusion initiatives, championing tech accessibility for underrepresented communities.
-- Completed several certifications in cloud architecture and DevOps, contributing to professional growth.
-- Plans for a professional development course in AI and machine learning to further enhance backend capabilities in Insurellm's offerings.
-- Acknowledged for volunteer efforts in local tech meetups, bringing seasoned engineers to mentor aspiring coders.  
+- **2020:** Salário base R$ 8.200,00
+- **2021:** Salário base R$ 9.400,00 + bônus anual de R$ 6.000,00
+- **2022:** Salário base R$ 11.000,00 + bônus anual de R$ 8.500,00
+- **2023:** Salário base R$ 13.500,00 + participação nos lucros de R$ 12.000,00
 
-Alex Chen continues to be a vital asset at Insurellm, contributing significantly to innovative backend solutions that help shape the future of insurance technology.
+## Outras Observações de RH
+
+- Certificações recentes em analytics de cadeia fria e integração EDI com parceiros varejistas.
+- Participa do comitê interno de inovação logística e de grupos de diversidade voltados à inclusão de profissionais asiático-brasileiros.
+- Facilita workshops trimestrais sobre boas práticas de segurança da informação para supervisores de armazém.
+- Em 2024, deve liderar a implementação do módulo de inventário cíclico em todos os centros de distribuição.

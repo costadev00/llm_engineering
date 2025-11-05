@@ -1,34 +1,34 @@
-# HR Record
+# Registro de RH
 
 # Jordan Blake
 
-## Summary
-- **Date of Birth:** March 15, 1993  
-- **Job Title:** Sales Development Representative (SDR)  
-- **Location:** Austin, Texas  
+## Resumo
 
-## Insurellm Career Progression
-- **2021-06:** Joined Insurellm as an Entry-Level SDR  
-- **2022-02:** Promoted to Junior SDR after exceeding quarterly targets by 25%  
-- **2022-12:** Recognized as SDR of the Month for three consecutive months  
-- **2023-05:** Participated in the Insurellm Leadership Training Program  
+- **Data de nascimento:** 15 de março de 1993
+- **Cargo:** Supervisor de Operações de Entrega
+- **Localização:** Goiânia, Goiás
 
-## Annual Performance History
-- **2021:** First year at Insurellm; achieved 90% of monthly targets.  
-  - **Feedback:** Strong potential shown in lead generation; needs improvement in follow-up techniques.  
-- **2022:** Achieved 120% of targets; pioneered outreach strategies that increased customer engagement.  
-  - **Feedback:** Jordan's innovative approach contributed significantly to team success; recommended for leadership training.  
-- **2023:** Set to exceed annual targets by 30% in Q3; initiated successful partnerships that broadened market reach.  
-  - **Feedback:** Exceptional communicator; exemplifies the values of Insurellm and promotes team collaboration.
+## Trajetória na Bebidas Brasil Distribuidora
 
-## Compensation History
-- **2021-06:** Starting Salary: $50,000  
-- **2022-04:** Merit-based increase: $55,000 (based on performance review)  
-- **2023-06:** Performance bonus awarded: $5,000 (for exceeding goals as recognized in annual review)  
-- **2023-09:** Salary adjustment due to promotion to Senior SDR: $65,000  
+- **Junho de 2021:** Admitido como Coordenador de Roteirização apoiando o novo centro logístico do Centro-Oeste.
+- **Fevereiro de 2022:** Promoção a Supervisor de Turno após implantar rotinas de conferência que reduziram devoluções em 18%.
+- **Agosto de 2023:** Assumiu Supervisão Geral de Operações de Entrega, liderando 42 motoristas e equipe de apoio.
 
-## Other HR Notes
-- Jordan has shown an interest in continuing education, actively participating in company-sponsored sales webinars.  
-- Notable for involvement in the Insurellm volunteer program, assisting local charity events related to financial literacy.  
-- Employee wellness advocate, consistently promotes team bonding activities and stress-relief workshops.  
-- Plans to enroll in a course for advanced sales strategies in Q4 2023, aiming to further enhance his skills at Insurellm.
+## Histórico de Desempenho Anual
+
+- **2021:** Concluiu integração atingindo 92% das metas de pontualidade; destaque para elaboração de painéis de monitoramento.
+- **2022:** Superou indicadores, elevando OTIF para 95% e reduzindo avarias em 22%; avaliação "Acima das Expectativas".
+- **2023:** Implementou programa de manutenção preventiva que diminuiu paradas não programadas em 30%; avaliação "Excelente".
+
+## Histórico de Remuneração
+
+- **2021:** Salário base R$ 4.700,00 + adicional noturno médio de R$ 600,00/mês
+- **2022:** Salário base R$ 5.800,00 + bônus anual de R$ 6.500,00
+- **2023:** Salário base R$ 7.200,00 + participação nos lucros de R$ 9.000,00
+
+## Outras Observações de RH
+
+- Certificado em gestão de frotas e compliance de transporte de bebidas.
+- Representa o centro de distribuição no comitê interno de segurança do trabalho.
+- Voluntário em ações de educação no trânsito em parceria com o Detran-GO.
+- Em 2024 participará do programa de liderança regional para gestores operacionais.

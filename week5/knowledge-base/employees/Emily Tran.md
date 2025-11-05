@@ -1,72 +1,34 @@
-# HR Record
+# Registro de RH
 
 # Emily Tran
 
-## Summary
-- **Date of Birth:** March 18, 1991  
-- **Job Title:** Digital Marketing Specialist  
-- **Location:** San Francisco, CA  
+## Resumo
 
----
+- **Data de nascimento:** 18 de março de 1991
+- **Cargo:** Especialista em Marketing Digital e Conteúdo
+- **Localização:** São Paulo, São Paulo
 
-## Insurellm Career Progression
-- **February 2020 - Present**: Digital Marketing Specialist  
-   - Emily Tran has been pivotal in enhancing Insurellm's online presence through targeted social media campaigns and SEO strategies.
-   - Successfully managed a team of interns for the 'Spring Into Safety' initiative, increasing customer engagement by 35%.
+## Trajetória na Bebidas Brasil Distribuidora
 
-- **June 2018 - January 2020**: Marketing Coordinator  
-  - Assisted in the development and execution of marketing campaigns to promote Insurellm's products.
-  - Collected and analyzed data on customer demographics to inform Insurellm’s marketing strategies.
+- **Fevereiro de 2020 – Presente:** Especialista em Marketing Digital com foco em campanhas omnichannel para cervejas artesanais e bebidas saudáveis.
+- **Junho de 2018 – Janeiro de 2020:** Analista de Marketing Digital responsável por monitoramento de performance e SEO dos e-commerces parceiros.
+- **Janeiro de 2017 – Maio de 2018:** Estagiária de Marketing, atuando em produção de conteúdo e suporte em eventos promocionais.
 
-- **January 2017 - May 2018**: Marketing Intern  
-  - Supported the Marketing team by collaborating on content creation and digital advertising projects.
-  - Gained hands-on experience with marketing automation tools, enriching her skillset for her role in Insurellm.
+## Histórico de Desempenho Anual
 
----
+- **2023:** Avaliação "Supera Expectativas" ao liderar a campanha "Verão Refrescante", aumentando vendas online em 52% e base de leads B2B em 31%.
+- **2022:** Avaliação "Atende Expectativas"; estruturou automações de CRM que elevaram a taxa de abertura de e-mails para 27%.
+- **2021:** Avaliação "Atende Expectativas" com destaque para o lançamento do programa de fidelidade digital "Clube Bebidas Brasil".
 
-## Annual Performance History
-- **2023**:  
-  - Performance Rating: Exceeds Expectations  
-  - Key Achievements: Led the "Tech the Halls" campaign that resulted in a 50% increase in leads during the holiday season. 
-  - Emily Tran's innovative strategies and attention to detail have made her stand out among her peers.
+## Histórico de Remuneração
 
-- **2022**:  
-  - Performance Rating: Meets Expectations  
-  - Key Achievements: Enhanced Insurellm's email marketing strategy, achieving a 25% open rate increase.
+- **2023:** Salário base R$ 9.200,00 + bônus anual de R$ 14.000,00
+- **2022:** Salário base R$ 8.300,00 + bônus anual de R$ 9.500,00
+- **2021:** Salário base R$ 7.600,00 + bônus simbólico de R$ 3.000,00
 
-- **2021**:  
-  - Performance Rating: Meets Expectations  
-  - Key Achievements: Contributed to the launch of a customer referral program that resulted in a 15% growth in B2C customers.
+## Outras Observações de RH
 
----
-
-## Compensation History
-- **2023**:  
-  - Base Salary: $75,000  
-  - Bonus: $10,000 for exceeding annual targets.
-
-- **2022**:  
-  - Base Salary: $70,000  
-  - Bonus: $5,000 for achieving marketing milestones.
-
-- **2021**:  
-  - Base Salary: $67,500  
-  - No bonus due to reallocation of marketing funds during the pandemic.
-
----
-
-## Other HR Notes
-- **Training Completed**:  
-  - Advanced Digital Marketing Workshop (2021)  
-  - Analytics and Reporting in Digital Advertising (2022)
-
-- **Professional Development Goals**:  
-  - Emily Tran aims to become a Marketing Manager within the next two years, focusing on leading larger campaigns and developing junior team members.
-
-- **Hobbies**:  
-  - Emily enjoys photography and regularly contributes to Insurellm's social media content with her own high-quality images.
-  - She is also passionate about sustainability and organizes monthly team volunteer events for environmental awareness. 
-
----
-
-Emily Tran continues to be a valuable asset to Insurellm, driving innovative marketing strategies that resonate with a diverse customer base. Her contributions have significantly enhanced the company's branding and customer outreach efforts.
+- Concluiu certificações em mídia programática, analytics avançado e UX writing aplicado a e-commerce.
+- Coordena time de estagiários e mantém comunidade interna de criadores de conteúdo.
+- Lidera iniciativas de sustentabilidade digital, compensando emissões de campanhas e priorizando parceiros carbono neutro.
+- Planeja especialização em marketing para bebidas não alcoólicas funcionais ainda em 2024.
