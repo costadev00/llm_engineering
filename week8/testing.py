@@ -13,7 +13,7 @@ class Tester:
         self.predictor = predictor
         self.data = data
         self.title = title or predictor.__name__.replace("_", " ").title()
-        self.size = size
+        self.size = min(size, len(data))
         self.guesses = []
         self.truths = []
         self.errors = []

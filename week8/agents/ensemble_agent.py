@@ -18,7 +18,7 @@ class EnsembleAgent(Agent):
         And loading the weights of the Ensemble
         """
         self.log("Initializing Ensemble Agent")
-        self.specialist = SpecialistAgent()
+        self.specialist = SpecialistAgent(collection)
         self.frontier = FrontierAgent(collection)
         self.random_forest = RandomForestAgent()
         self.model = joblib.load('ensemble_model.pkl')
